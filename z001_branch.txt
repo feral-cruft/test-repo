@@ -1,0 +1,41 @@
+
+Current branch (master) [test-repo]
+
+
+GitHub Desktop ~ (Still showing repo "origin" my-repo).
+
+This file has been commited 3 minutes ago. (As an empty file). 
+SAVED with some text inside it now - [8:15 PM 30/11/2017 QLD-DST Time ] #!~
+GitHUB-Desktop / github.com ~ Seems to prevent THIS kinda "save" (workflow) - AFTER creating the file.
+AND :: At the same time remember EVERY little thing I type in here.
+
+
+Does this thing "Sync-Automatically" ? ~ *Doing STUFF ALL WRONG, on github*
+
+OTHER NOTEs
+REPO - test-repo has its own directory on the local-system (w7Pro).
+
+
+REF  :: z010_MAKE_Branch.png
+
+With regards to file z000_cloned.txt ~ (LocalFILE on \\z97) - Now removed from the local-git-repo.
+
+NEW-FILEs
+
+	z001_branch.txt
+	z010_MAKE_Branch.png
+
+You must be on a branch to make or propse changes to this file (z000_cloned.txt) ~ ummm.
+
+But it has been removed from the local-repo.
+
+
+I really make these things difficult from myself.
+I can put it back, with the text that was keyed in.
+AND :: github will probably make version of EACH and every change.
+
+
+*******************************************************************
+
+
+
