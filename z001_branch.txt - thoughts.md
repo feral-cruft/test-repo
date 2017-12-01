@@ -12,7 +12,7 @@ if u edit a file remotely (via gitbhub web page) ,ur local version of the file w
   
 similarly if u edit a local file, remote file won't update until u actually do something from ur end.  
 
-the synchronisation itself (via git) is muchly automated (what the platrorm app was made for i guess) BUT it won't happen until YOU take some action at ur end and EXPLICITLY command that it be so.  
+the synchronisation itself (via git) is muchly automated (what the platrorm and app was made for i guess) BUT it won't happen until YOU take some action at ur end and EXPLICITLY command that it be so.  
 
 "Let there Be Synchronisation!" and then There Will Be Much Synchronisation, and The Synchronisation will be Automagical.  
 erm...  
