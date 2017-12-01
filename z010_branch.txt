@@ -3,3 +3,5 @@ z010_branch.txt = PROCEDURE ~ Name and create a branch THEN, create a pull reque
 OK It tells me THIS ~ This branch is 1 commit behind master ~ (Currently inside "master")
 
 HOW ~ might the "Branch" become updated ~ Which little button do I press to complete this procedure.
+
+uMMM ~ AND Now() ~ This branch is 2 commits behind master. ~ (Currently inside "master")
