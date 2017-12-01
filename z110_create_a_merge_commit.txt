@@ -1,0 +1,33 @@
+z101_create_a_merge_commit.png
+z101_create_a_merge_commit.txt
+z101_create_a_merge_commit.PDF ~ PROCEDURE DOCUMENT ? ~ NEW-QUESTION
+
+Have commited  | Pushed THREE FILE to the Branch: SUBBranch001
+
+QUESTION = 
+HOW, ... might I tell "github Desktop" to push DIRECTLY to master ?
+
+
+ [5:52 PM 1/12/2017] #!~
+
+
+********************************************************
+
+OTHER NOTEs ~ (BEFORE commiting > pushing THIS file.txt
+
+github.com is telling ME, ... 
+
+This branch is 5 commits ahead of master. 
+This branch is 5 commits ahead of master. 
+This branch is 5 commits ahead of master. 
+
+
+Well that  make sense, ...
+I have been addding one file after the other ~ (Again and Again) to SUBBranch001 !!!
+
+
+ [5:54 PM 1/12/2017] #!~
+
+
+*********************************************************
+
