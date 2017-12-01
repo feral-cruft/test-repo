@@ -19,16 +19,3 @@ erm...
 at least i think that's how github / git is supposed to be used (the 'rignt' way).  
   
 so editing stuff in-place like this is not the 'right' way to use github, but github justa nutha gadget, so if it helps u do what u are doing at the time, even if its just jotting down stuff like this in a handy text editor, it's not the 'wrong' way to use github, it's just Overkill!  
-
-
-
-
-
-
-
-
-
-
-
-
-
