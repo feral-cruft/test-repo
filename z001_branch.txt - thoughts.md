@@ -18,10 +18,7 @@ the synchronisation itself (via git) is muchly automated (what the platrorm app 
 erm...  
 at least i think that's how github / git is supposed to be used (the 'rignt' way).  
   
-so editing stuff in-place like this may or may not be the 'right' way to use github, but github justa nutha gadget, so if it helps achieve whatever u are attempting at the time, even if its just jotting down stuff like this in a handy text editor, that's not the 'wrong' way to use github, that's just Overkill!  
-
-yay
-Overkill is Awesome!
+so editing stuff in-place like this is not the 'right' way to use github, but github justa nutha gadget, so if it helps u do what u are doing at the time, even if its just jotting down stuff like this in a handy text editor, it's not the 'wrong' way to use github, it's just Overkill!  
 
 
 
